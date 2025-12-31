@@ -83,3 +83,7 @@ Plaintext
     Performance: Optimized for zero-lag searching even with dozens of archive entries.
 
     Professionalism: No emojis or clutter; the interface is designed for high-level academic or corporate environments.
+
+    The Live Link: https://wilsondjeufack.github.io/ems-2025/ (This is  to play with the app).
+
+The Repository Link: https://github.com/WILSONDJEUFACK/ems-2025 (This is to grade my code).
