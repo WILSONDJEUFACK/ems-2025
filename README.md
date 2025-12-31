@@ -87,3 +87,12 @@ Plaintext
     The Live Link: https://wilsondjeufack.github.io/ems-2025/ (This is  to play with the app).
 
 The Repository Link: https://github.com/WILSONDJEUFACK/ems-2025 (This is to grade my code).
+
+
+NB  Login Credentials:
+
+    User: admin@school.com
+
+    Pass: admin123
+
+Best regards, Wilson Djeufack
