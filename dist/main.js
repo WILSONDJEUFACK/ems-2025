@@ -1,4 +1,4 @@
-var _a, _b, _c, _d, _e, _f;
+var _a, _b, _c, _d, _e;
 import { EventModel } from './models/Event.js';
 import { User } from './models/User.js';
 import { Registration } from './models/Registration.js';
@@ -181,4 +181,3 @@ window.book = (id) => {
     });
 });
 (_e = document.getElementById('search-input')) === null || _e === void 0 ? void 0 : _e.addEventListener('input', renderArchive);
-(_f = document.getElementById('show-archive-btn')) === null || _f === void 0 ? void 0 : _f.addEventListener('click', renderArchive);
